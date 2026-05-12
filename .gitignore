@@ -1,0 +1,33 @@
+﻿__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.pytest_cache
+cached_data/
+*.sqlite3
+*.db
+
+.venv/
+venv/
+ENV/
+env/
+
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*.temp
+*.swp
+
+*.pyc
+
+temp/
+*.bak
+
+# Streamlit
+.streamlit/
+
+# Visual Studio Code
+.vscode/
