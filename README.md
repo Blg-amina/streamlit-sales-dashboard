@@ -68,6 +68,8 @@ Run the Application:
 
 Bash
 streamlit run app.py
+
+
 🛡️ Professional Alignment
 This project is an integral part of my professional portfolio, showcasing the intersection of Mobile Engineering (Flutter), Cybersecurity, and AI-driven Analytics. It reflects my commitment to building secure, scalable, and localized digital solutions for academic and industrial excellence.
 
@@ -76,6 +78,6 @@ Location: Ain Temouchent, Algeria.
 
 📫 **Reach Me At:**
 - **LinkedIn:** [linkedin.com/in/amina-belaggoun](https://www.linkedin.com/in/amina-belaggoun-2165972a2/)
-- **Email:** [amina.dev.app@email.com](belaggounamina@gmail.com)
+- **Email:** [belaggounamina@gmail.com]
 - **Portfolio:** [aminadevapp.netlify.app](https://aminadevapp.netlify.app/)
 - **GitHub:** [@Blg-amina](https://github.com/Blg-amina)
