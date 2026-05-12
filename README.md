@@ -68,6 +68,8 @@ Run the Application:
 
 Bash
 streamlit run app.py
+
+
 🛡️ Professional Alignment
 This project is an integral part of my professional portfolio, showcasing the intersection of Mobile Engineering (Flutter), Cybersecurity, and AI-driven Analytics. It reflects my commitment to building secure, scalable, and localized digital solutions for academic and industrial excellence.
 
