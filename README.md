@@ -76,6 +76,6 @@ Location: Ain Temouchent, Algeria.
 
 📫 **Reach Me At:**
 - **LinkedIn:** [linkedin.com/in/amina-belaggoun](https://www.linkedin.com/in/amina-belaggoun-2165972a2/)
-- **Email:** [amina.dev.app@email.com](belaggounamina@gmail.com)
+- **Email:** [belaggounamina@gmail.com]
 - **Portfolio:** [aminadevapp.netlify.app](https://aminadevapp.netlify.app/)
 - **GitHub:** [@Blg-amina](https://github.com/Blg-amina)
