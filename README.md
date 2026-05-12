@@ -7,6 +7,8 @@
 
 This high-end Business Intelligence (BI) dashboard was developed as a primary instructional tool for the **Artificial Intelligence Module (Academic Year 2025-2026)**. It serves as a real-world demonstration of how AI-driven decision support systems can transform raw data into strategic insights within the Algerian economic landscape.
 
+ ## 🚀 Live Demo
+**[Click here to view the live dashboard](https://app-sales-dashboard-65nczq6jpczdynkqlgrsvw.streamlit.app/)**
 ---
 
 ## 🎓 Academic Context
